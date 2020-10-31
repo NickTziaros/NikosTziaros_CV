@@ -6,6 +6,10 @@
 	list-style: none;
 	box-sizing: border-box;
 	font-family: 'Ubuntu', sans-serif;
+
+}
+.wrapper{
+	background-color:  #292b2f;
 }
 
 body{
@@ -34,6 +38,7 @@ body{
 
 .right{
 	width: 100%;
+	margin-left: 20px;
 	
 }
 
@@ -182,6 +187,7 @@ body{
 .right_inner{
 	padding: 30px;
 	color: #ffff;
+	margin-top: 25px;
 }
 
 .right_inner .education{
@@ -250,11 +256,11 @@ img.ros {
 
 img.matlab{
 	height: 70px;
-	width:90px;
+	width:70px;
 }
 img.tia{
 	height:70px;
-	width:90px;
+	width:70px;
 	border-radius: 10px;
 }
 div.text a{
