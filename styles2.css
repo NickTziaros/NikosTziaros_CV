@@ -160,7 +160,7 @@ body{
 }
 
 .header{
-	background: #292b2f;
+	background: transparent;
 	padding: 15px 30px;
 	color: #fff;
 	height: 240px;
@@ -269,3 +269,7 @@ text-decoration: none;
 }
 
 
+html{
+	
+	background-color:  #292b2f;
+}
